@@ -120,4 +120,4 @@ Warsaw, Poland &nbsp;|&nbsp; CET &nbsp;|&nbsp; Open to remote
 ## Contact
 
 [![Email](https://img.shields.io/badge/lukashonak.pl%40gmail.com-1a1a2e?style=flat-square&logo=gmail&logoColor=ea4335)](mailto:lukashonak.pl@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=flat-square&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/summivar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=flat-square&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/slukashonak/)
