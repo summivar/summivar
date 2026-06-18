@@ -18,7 +18,7 @@ Specialized in crafting robust solutions for **iGaming**, **Fintech**, and **IoT
 
 Experienced in leading cross-functional teams of **15+ engineers**, bridging deep technical expertise with Time-to-Market execution. DevOps-savvy and self-sufficient - from architecture design to production delivery.
 
-📍 Warsaw, Poland - CET - Open to remote
+Warsaw, Poland &nbsp;|&nbsp; CET &nbsp;|&nbsp; Open to remote
 
 ---
 
@@ -26,28 +26,28 @@ Experienced in leading cross-functional teams of **15+ engineers**, bridging dee
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<b>Zero-loss</b><br/><br/>
-Append-only double-entry ledger with transactional outbox ensuring atomic event delivery across all crypto-fiat fund movements<br/><br/>
-<sub>Fintech - Accounting</sub>
-</td>
-<td width="50%" valign="top">
-<b>+22%</b><br/><br/>
-System stability for ML-powered IoT devices with thousands of concurrent connections<br/><br/>
-<sub>IoT - Distributed Systems</sub>
-</td>
+<td width="50%"><b>Zero-loss</b></td>
+<td width="50%"><b>+22%</b></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<b>5 flows</b><br/><br/>
-Crypto-fiat liquidity orchestration engine handling top-up, payment, payout, settlement, and payroll across multi-unit card infrastructure<br/><br/>
-<sub>Fintech - Payments</sub>
-</td>
-<td width="50%" valign="top">
-<b>-15%</b><br/><br/>
-Fraudulent activity via hierarchical restriction engine in international payment infrastructure<br/><br/>
-<sub>iGaming - Payments</sub>
-</td>
+<td>Append-only double-entry ledger with transactional outbox ensuring atomic event delivery across all crypto-fiat fund movements</td>
+<td>System stability for ML-powered IoT devices with thousands of concurrent connections</td>
+</tr>
+<tr>
+<td><sub>Fintech - Accounting</sub></td>
+<td><sub>IoT - Distributed Systems</sub></td>
+</tr>
+<tr>
+<td><b>5 flows</b></td>
+<td><b>-15%</b></td>
+</tr>
+<tr>
+<td>Crypto-fiat liquidity orchestration engine handling top-up, payment, payout, settlement, and payroll across multi-unit card infrastructure</td>
+<td>Fraudulent activity reduced via hierarchical restriction engine in international payment infrastructure</td>
+</tr>
+<tr>
+<td><sub>Fintech - Payments</sub></td>
+<td><sub>iGaming - Payments</sub></td>
 </tr>
 </table>
 
@@ -119,4 +119,5 @@ Fraudulent activity via hierarchical restriction engine in international payment
 
 ## Contact
 
-[lukashonak.pl@gmail.com](mailto:lukashonak.pl@gmail.com) - [LinkedIn](https://www.linkedin.com/in/summivar)
+[![Email](https://img.shields.io/badge/lukashonak.pl%40gmail.com-1a1a2e?style=flat-square&logo=gmail&logoColor=ea4335)](mailto:lukashonak.pl@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=flat-square&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/summivar)
