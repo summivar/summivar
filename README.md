@@ -4,7 +4,7 @@
 
 # Viachaslau Lukashonak
 
-**Senior Software Engineer - System Architect - Tech Lead**
+**Senior Software Engineer - System Architect**
 
 </div>
 
@@ -12,11 +12,11 @@
 
 ## About
 
-Software Engineer and System Architect with **5+ years** of experience building highly efficient backend systems and distributed architectures.
+Software Engineer and System Architect with **5+ years** building distributed backend systems for **iGaming**, **Fintech**, and **IoT**.
 
-Specialized in crafting robust solutions for **iGaming**, **Fintech**, and **IoT** industries - from ultra-low latency game networking protocols (RUDP) to multi-layer payment systems and real-time data pipelines.
+I go deep on the backend and cover the rest of the stack: DevOps, infrastructure, databases, and frontend when a feature needs it. I design payment ledgers, low-latency game networking (RUDP), and multi-tenant platforms that stay fast and correct under load.
 
-Experienced in leading cross-functional teams of **15+ engineers**, bridging deep technical expertise with Time-to-Market execution. DevOps-savvy and self-sufficient - from architecture design to production delivery.
+I own features end to end, from data model and gRPC contracts to CI/CD, observability, and production on-call, and I care about correctness under concurrency, clean service boundaries, and resilient data layers with failover.
 
 Warsaw, Poland &nbsp;|&nbsp; CET &nbsp;|&nbsp; Open to remote
 
